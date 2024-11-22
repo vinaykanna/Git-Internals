@@ -1,0 +1,9 @@
+{
+    "name": "vinay",
+    "address": {
+        "city": "bangalore",
+        "state": "karnataka",
+        "country": "india",
+        "pincode": "560001"
+    }
+}
